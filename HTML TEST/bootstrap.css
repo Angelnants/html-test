@@ -1,0 +1,21 @@
+body{background-color: white
+}
+#content{overflow: hidden;
+
+}
+#left{float: left;
+    width: 300px;
+    
+
+}
+#right{float:left;
+    width: 600px;
+    padding: 0px 12px
+
+}
+.thumbnail{float: left;
+        width: 50px;
+        padding: 0px 10px
+
+
+}
